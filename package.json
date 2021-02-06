@@ -2,7 +2,18 @@
   "name": "quickfiles",
   "displayName": "QuickFiles",
   "description": "Quickly open favorite files",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "kleinsch",
+  "keywords": [
+    "favorite",
+    "keyboard",
+    "shortcut",
+    "quick"
+  ],
+  "repository": {
+    "url": "https://github.com/kleinsch/quickfiles.git",
+    "type": "git"
+  },
   "engines": {
     "vscode": "^1.53.0"
   },
