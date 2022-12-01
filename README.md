@@ -40,3 +40,7 @@ The following variables are supported in file paths:
 ### 1.0.0
 
 Initial release
+
+### 1.0.1
+
+Support VSCode 1.50.0
